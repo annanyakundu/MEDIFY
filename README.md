@@ -18,7 +18,7 @@ The system features two distinct frontends: one for patients and one for adminis
 
 ## Deployed Frontends
 
-- **User Website (Patient Portal):** [Medify User Website](https://medify-annanya.netlify.app/)
+- **User Website:** [Medify User Website](https://medify-annanya.netlify.app/)
 - **Admin Dashboard:** [Medify Admin Dashboard](https://medify-annanya-admin.netlify.app/)
 
 ## Technologies Used
